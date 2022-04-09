@@ -33,7 +33,7 @@
     "is-image": "^2.0.0",
     "lodash": "^4.17.13",
     "mathjs": "^5.4.2",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "slot-machine": "^2.1.0",
     "snekfetch": "^4.0.4",
     "sqlite3": "^4.0.6",
